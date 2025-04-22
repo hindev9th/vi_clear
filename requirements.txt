@@ -1,1 +1,0 @@
-git+https://github.com/CodeLinkIO/vietnam-number.git@master

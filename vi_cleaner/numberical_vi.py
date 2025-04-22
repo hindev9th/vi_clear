@@ -1,4 +1,4 @@
-from vietnam_number.number2word import n2w, n2w_single
+from vi_number.number2word import n2w, n2w_single
 import re
 
 from .datestime_vi import _remove_prefix_zero
