@@ -1,6 +1,6 @@
 import re
 
-from vietnam_number.number2word import n2w
+from vi_number.number2word import n2w
 from .symbol_vi import vietnamese_re
 
 _quotes_symbol = r"(\"|\')?"
